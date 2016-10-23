@@ -1,1 +1,1 @@
-camera shop assignment 
+camera shop assignment    
