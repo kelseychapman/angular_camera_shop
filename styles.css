@@ -1,0 +1,16 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.cameraImage{
+  width: 200px;
+  height: auto;
+}
+
+.camera {
+  border-bottom: 1px solid lightgrey;
+}
+
+.yellow {
+  color: #FFB515;
+}
